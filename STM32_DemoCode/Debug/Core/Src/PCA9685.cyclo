@@ -1,0 +1,17 @@
+../Core/Src/PCA9685.c:13:16:PCA9685_Write8	2
+../Core/Src/PCA9685.c:22:16:PCA9685_Read8	2
+../Core/Src/PCA9685.c:30:16:PCA9685_SetBit	4
+../Core/Src/PCA9685.c:59:16:PCA9685_Init	3
+../Core/Src/PCA9685.c:78:16:PCA9685_Reset	2
+../Core/Src/PCA9685.c:90:16:PCA9685_Sleep	1
+../Core/Src/PCA9685.c:95:16:PCA9685_WakeUp	2
+../Core/Src/PCA9685.c:105:16:PCA9685_SetExtClk	1
+../Core/Src/PCA9685.c:111:16:PCA9685_SetPWMFreq	7
+../Core/Src/PCA9685.c:144:16:PCA9685_GetPrescale	2
+../Core/Src/PCA9685.c:153:16:PCA9685_OutputMode	1
+../Core/Src/PCA9685.c:159:16:PCA9685_GetPWM	2
+../Core/Src/PCA9685.c:174:16:PCA9685_SetPWM	2
+../Core/Src/PCA9685.c:197:16:PCA9685_SetOscillatorFreq	1
+../Core/Src/PCA9685.c:202:10:PCA9685_GetOscillatorFreq	1
+../Core/Src/PCA9685.c:206:10:Map_AngleToPWM	3
+../Core/Src/PCA9685.c:217:16:PCA9685_SetAngle	2
